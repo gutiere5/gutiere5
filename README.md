@@ -16,7 +16,7 @@ fields_of_interest:
     "DevOps",
     "Cloud Computing"
   ]
-2025_goals: ["Create 10+ Projects", "Build 5 Apps", "10 Contributions to Open Source", "Learn Linux"]
+2026_goals: ["Create 10+ Projects", "Build 5 Apps", "10 Contributions to Open Source", "Learn Linux"]
 ```
 
 <h2>Languages and Tools</h2>

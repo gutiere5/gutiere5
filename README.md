@@ -63,7 +63,6 @@ Learning & Exploring
 
 <h2>Connect with me</h2>
 <div align="center"> 
-  <a href="mailto:elgu404@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
-  <a href="https://linkedin.com/in/elbergutierrez" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+  <a href="https://linkedin.com/in/elbergutierrez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>       
 <hr>

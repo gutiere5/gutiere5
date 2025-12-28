@@ -54,13 +54,6 @@ Learning & Exploring
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="linux" />
 </p>
 
-<h2>Stats</h2>
-<br>
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gutiere5&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gutiere5&theme=transparent&layout=compact&hide=css&langs_count=8&show_icons=true&locale=en" />
-</div>
-
 <h2>Connect with me</h2>
 <div align="center"> 
   <a href="https://linkedin.com/in/elbergutierrez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
